@@ -60,8 +60,18 @@ var board = {
 }
 
 
-function startGame () {
+function startGame (board) {
   // Don't remove this function call: it makes the game work!
+  
+  //
+
+  var i = (cells);
+  for (i = 0; i < array.length; i++) {
+    
+  }
+
+  
+
   lib.initBoard()
 }
 
